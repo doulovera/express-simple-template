@@ -1,6 +1,6 @@
 # Modo de uso
 
-```shell
+```bash
 $ git clone https://github.com/doulovera/express-simple-template.git
 ```
 
